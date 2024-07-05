@@ -8,8 +8,6 @@ Employee-Management-System/
 ├── src/
 │ └── main/
 │ └── java/
-│ └── Faculties/
-│ └── Anant_Joshi/
 │ ├── Employee.java
 │ └── EmployeeManagementApp.java
 ├── images/
