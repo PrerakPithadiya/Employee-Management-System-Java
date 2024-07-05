@@ -48,11 +48,12 @@ Employee-Management-System/
 ## Usage Instructions
 1. **Clone the Repository**:
    git clone https://github.com/yourusername/Employee-Management-System.git
+
    cd Employee-Management-System
 
-2. **Navigate to the Source Directory**:
+3. **Navigate to the Source Directory**:
    cd src/main/java
 
-3. **Compile and Run the Application**:
+4. **Compile and Run the Application**:
    javac EmployeeManagementApp.java
    java EmployeeManagementApp
