@@ -6,10 +6,12 @@ The Employee Management System is a Java-based application designed to manage em
 ## Project Structure
 Employee-Management-System/
 ├── src/
-|  └── main/
-│    └── java/
-│      ├── Employee.java
-|      └── EmployeeManagementApp.java
+│ └── main/
+│ └── java/
+│ └── Faculties/
+│ └── Anant_Joshi/
+│ ├── Employee.java
+│ └── EmployeeManagementApp.java
 ├── images/
 │ ├── screenshot.png
 │ └── usage.gif
