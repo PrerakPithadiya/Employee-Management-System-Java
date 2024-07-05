@@ -48,7 +48,6 @@ Employee-Management-System/
 ## Usage Instructions
 1. **Clone the Repository**:
    git clone https://github.com/yourusername/Employee-Management-System.git
-
    cd Employee-Management-System
 
 3. **Navigate to the Source Directory**:
